@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica:wght@200;100;900&family=Sono:wght,MONO@200..800,0..1&display=swap');
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: "Helvetica", system-ui;
+    font-weight: 10;
+}
+
+h1 {
+    color: #9da4ef;
+    font-size: 200%;
+}
+
+h2 {
+    color: #ee9def;
+    font-size: 25px;
+}
+
+h3 {
+    color: #9da4ef;
+    font-size: 25px;
+}
+
+body {
+    background-color: #1255a2;
+    font-family: "Sono", monospace;
+    font-weight: 300;
+    font-size: 20px;
+    color: #9defef;
+    margin-bottom: 50px;
+    
+}
+
+section {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+}
+
+#fotoperfil {
+    width: 40%;
+    margin: auto;
+    display: block;
+    border-radius: 300%;
+
+}
+
+a, #links {
+    text-decoration: none;
+    color: #b09def;
+}
+
+a:hover {
+    color: #ee9def;
+    text-decoration: underline;
+}
+
+
+a:visited {
+    color: #ee9def;
+}
+
+
+#links{
+    list-style-type: none;
+}
+
+a:hover {
+    color: #8ff9ff;
+    text-decoration: underline;
+}
+
+
+img {
+    width: 400px;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+}
